@@ -1,7 +1,7 @@
-﻿/* 
+﻿/*
  * Lauren Hutchens
  * CST-250
- * 2/9/2025 
+ * 2/9/2025
  * Activity 2: Chess Board App
  * In class activity
  */
@@ -111,7 +111,8 @@ class Helper
     {
         Console.ForegroundColor = foreground;
         Console.BackgroundColor = background;
-    }
+        }
+    }// end of PrintBoard method
 
     public static Tuple<int, int> GetRowAndCol()
     {

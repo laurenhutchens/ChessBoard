@@ -1,7 +1,7 @@
-﻿/* 
+﻿/*
  * Lauren Hutchens
  * CST-250
- * 2/9/2025 
+ * 2/9/2025
  * Activity 2: Chess Board App
  * In class activity
  */
